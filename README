@@ -1,0 +1,2 @@
+a small utility program I wrote way back to show me how much space a directory took.
+I recently rewrote it and added some new functionality to show the top directories, useful for trying to track down which directories are your biggest space hogs.
